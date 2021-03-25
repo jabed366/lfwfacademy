@@ -55,9 +55,9 @@
 /* ============== */
 
 .banner {
-	background: url(img/header-bg01.jpg) no-repeat top center;
+	background: url("https://i.ibb.co/bB1d0Dr/header-bg01.jpg") no-repeat top center;
 	background-size: cover;
-	padding: 125px;
+	padding: 225px 0;
 	text-align: center;
 }
 .banner_caption {
